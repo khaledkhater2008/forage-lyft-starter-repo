@@ -1,8 +1,8 @@
 from Engine.capulet_engine import  CapuletEngine
 from Engine.sternman_engine import SternmanEngine
 from Engine.willoughby_engine import WilloughbyEngine
-from Battery.nubbin_battery import NubbinBattery
-from Battery.spindler_battery import SpindlerBattery
+from battery.nubbin_battery import NubbinBattery
+from battery.spindler_battery import SpindlerBattery
 from car import Car
 
 class CarFactory:
